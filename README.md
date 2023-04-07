@@ -5,7 +5,7 @@
 1. Go To `https://numverify.com`. And get your API key from there. 🔑
 2. Add your API key to the `config.json` file. 🔧
 3. Install Libraries: `pip install -r requirements.txt` 📜
-4. Launch Script: `python3 FireFly.py <number>` 🚀
+4. Launch Script: `python3 Firefly<+2137063718>` 🚀
 
 > <img src="img/pic.jpg">
 
